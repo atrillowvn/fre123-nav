@@ -123,8 +123,8 @@ const handleSearch = () => {
 
 const generatePlaceholder = () => {
 	return selectedResource.value?.name == '全部'
-		? '请输入您要搜索的内容...'
-		: `在 ${selectedResource.value?.name} 中搜索`
+		? 'Please enter your ...'
+		: `search query in ${selectedResource.value?.name} `
 }
 
 const switchResource = (idx: number, name: string) => {
