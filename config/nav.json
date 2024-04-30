@@ -1,5 +1,84 @@
 [
     {
+        "group_name": "Drugstore",
+        "style": 1,
+        "style_des": "Drugstore",
+        "tab_list": [
+            {
+                "tab_name": "UK",
+                "upper_right_corner": {
+                    "title": "UK",
+                    "url": "https://www.redditfans.top"
+                },
+                "details": [
+                    {
+                        "title": "ipill.de - Ihre deutsche Versandapotheke",
+                        "ori_url": "https://www.ipill.de/",
+                        "url": "https://www.ipill.de/",
+                        "icon": "https://assets.benable.com/brand_partners/1102927/internal_logo/0bb3168b18d16bcc93bc5cf7245b48e4dc67d0cd",
+                        "description": "Your personal pharmacy delivers medications at great prices. Simply online, by email, telephone or by post medicines",
+                        "suffix": false,
+                        "is_show": true
+                    },
+                    {
+                        "title": "PromoFarma.com - lider en el sector de la parafarmacia online",
+                        "ori_url": "https://www.promofarma.com/",
+                        "url": "https://www.promofarma.com/",
+                        "icon": "https://assets.benable.com/brand_partners/1066626/internal_logo/61bf660a28595f55d5a24a5b750969bb1f5eb5b6",
+                        "description": "Encuentra las mejores ofertas de salud y belleza. Compra online tus productos favoritos y recíbelos en 24h directo de la farmacia! Envío GRATIS a partir de",
+                        "suffix": false,
+                        "is_show": true
+                    }
+                ]
+            },
+            {
+                "tab_name": "DE",
+                "upper_right_corner": {
+                    "title": "DE",
+                    "url": "https://www.redditfans.top"
+                },
+                "details": [
+                    {
+                        "title": "Chemist Direct",
+                        "ori_url": "",
+                        "url": "",
+                        "icon": "https://assets.benable.com/brand_partners/1072702/internal_logo/1cbc2fcef85b4c382e3eba80f2e56f4032c9105d",
+                        "description": "Chemist Direct is a UK Online Pharmacy for over the counter medication. Browse among thousands of medicines, toiletries and beauty products online.",
+                        "suffix": false,
+                        "is_show": true
+                    },
+                    {
+                        "title": "Express Chemist",
+                        "ori_url": "",
+                        "url": "",
+                        "icon": "https://assets.benable.com/brand_partners/1064891/internal_logo/d8257829454e6dcdab787d5e0a7c8ae00d0faff0",
+                        "description": "Express Chemist are an online pharmacy based in the UK. Express Chemist specialises in delivering pharmacy medicines and health products, ...",
+                        "suffix": true,
+                        "is_show": true
+                    }
+                ]
+            },
+            {
+                "tab_name": "RU",
+                "upper_right_corner": {
+                    "title": "RU",
+                    "url": "https://www.redditfans.top"
+                },
+                "details": [
+                    {
+                        "title": "Zdravcity RU",
+                        "ori_url": "",
+                        "url": "",
+                        "icon": "https://assets.benable.com/brand_partners/1100598/internal_logo/b3e2366894dc448a70853b5ddd112a43f6937b6b",
+                        "description": "Здравсити - интернет-аптека, поиск лекарств онлайн ...",
+                        "suffix": true,
+                        "is_show": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "group_name": "News",
         "style": 1,
         "style_des": "标准风格",
