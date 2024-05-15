@@ -2,55 +2,49 @@
 	"base": {
 		"app_name": "RedditFans",
 		"web_host": "https://redditfans.top",
-		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
+		"logo": "https://telegraph-image-bnm.pages.dev/file/331fb9dd8d74a66f9de72.png"
 	},
 	"seo": {
-		"title": "Redditfans",
-		"description": "FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
-		"keywords": "FRE123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
-		"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico"
+		"title": "Redditfans Navigation",
+		"description": "RedditFans curates top brands & content across tech, fashion, travel, health, education, & home décor. Focus on luxury, outdoors, & online medical services. Discover unique trends & selections.",
+		"keywords": "RedditFans,Curated content,Top brands,Technology,Fashion,Travel,Health,Education,Home décor,Luxury,Outdoors,Online medical services,Unique trends,Selections",
+		"icon": "https://telegraph-image-bnm.pages.dev/file/331fb9dd8d74a66f9de72.png"
 	},
 	"header": {
 		"search": {
 			"is_show": true,
 			"list": [
 				{
-					"name": "百度",
-					"url": "https://www.baidu.com/s?wd=",
-					"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
-					"placeholder": "百度一下，你就知道"
-				},
-				{
-					"name": "谷歌",
+					"name": "Google",
 					"url": "https://www.google.com/search?q=",
-					"icon": "https://img.fre123.com/i/2023/11/26/6563038539819.png",
-					"placeholder": "请输入您要搜索的内容..."
+					"icon": "https://telegraph-image-bnm.pages.dev/file/cdf35cf2c8ca6e41e38cc.png",
+					"placeholder": "search query in google"
 				},
 				{
-					"name": "必应",
-					"url": "https://cn.bing.com/search?q=",
-					"icon": "https://img.fre123.com/i/2023/11/26/65630386088eb.png",
-					"placeholder": "请输入您要搜索的内容..."
+					"name": "Bing",
+					"url": "https://bing.com/search?q=",
+					"icon": "https://telegraph-image-bnm.pages.dev/file/9537c131221978c756bbf.png",
+					"placeholder": "search query in bing"
 				}
 			]
 		},
 		"right": {
 			"is_show": true,
 			"group": {
-				"name": "热点榜单",
-				"url": "https://www.fre123.com/news",
+				"name": "Discover More Channels",
+				"url": "https://benable.com/atrilloween/redditfans",
 				"children": [
 					{
-						"name": "新闻热榜",
-						"url": "https://www.fre123.com/news"
+						"name": "Discover More Channels",
+						"url": "https://benable.com/atrilloween/redditfans"
 					},
 					{
-						"name": "技术热榜",
-						"url": "https://www.fre123.com/tech"
+						"name": "Discover More Channels",
+						"url": "https://benable.com/atrilloween/redditfans"
 					},
 					{
-						"name": "技术周刊",
-						"url": "https://www.fre123.com/weekly"
+						"name": "Discover More Channels",
+						"url": "https://benable.com/atrilloween/redditfans"
 					}
 				]
 			}
@@ -64,27 +58,27 @@
 				"icon_size": 20,
 				"icon_color": "#00b140",
 				"icon_hover_color": "#008733",
-				"text": "有兴趣加我进群聊聊",
-				"img": "https://img.fre123.com/i/2023/12/03/656c990d9fbb8.jpeg",
-				"url": ""
+				"text": "Contact Us via WhatsApp.",
+				"img": "https://telegraph-image-bnm.pages.dev/file/7097f0cdfc5df51c986ab.jpg",
+				"url": "https://telegraph-image-bnm.pages.dev/file/7097f0cdfc5df51c986ab.jpg"
 			},
 			{
 				"icon_class": "fab fa-telegram-plane",
 				"icon_size": 20,
 				"icon_color": "#0088cc",
 				"icon_hover_color": "#085b85",
-				"text": "关注老胡TG信息流频道",
+				"text": "Contact Us via Telegram",
 				"img": "",
-				"url": "https://t.me/howie_weekly"
+				"url": "https://telegraph-image-bnm.pages.dev/file/7097f0cdfc5df51c986ab.jpg"
 			},
 			{
 				"icon_class": "fas fa-comment-dots",
 				"icon_size": 20,
 				"icon_color": "#0088cc",
 				"icon_hover_color": "#085b85",
-				"text": "FRE123 期待您的建议反馈",
+				"text": "Business Cooperation",
 				"img": "",
-				"url": "https://txc.qq.com/products/617721"
+				"url": "https://telegraph-image-bnm.pages.dev/file/7097f0cdfc5df51c986ab.jpg"
 			}
 		]
 	},
@@ -95,22 +89,22 @@
 				{
 					"icon_class": "fas fa-comment-dots",
 					"icon_size": 20,
-					"url": "https://github.com/fre123-com"
+					"url": "https://telegraph-image-bnm.pages.dev/file/7097f0cdfc5df51c986ab.jpg"
 				},
 				{
 					"icon_class": "fab fa-telegram-plane",
 					"icon_size": 20,
-					"url": "https://t.me/howie_weekly"
+					"url": "https://telegraph-image-bnm.pages.dev/file/7097f0cdfc5df51c986ab.jpg"
 				},
 				{
 					"icon_class": "fas fa-blog",
 					"icon_size": 20,
-					"url": "https://www.fre123.com/weekly"
+					"url": "https://telegraph-image-bnm.pages.dev/file/7097f0cdfc5df51c986ab.jpg"
 				},
 				{
 					"icon_class": "fas fa-qrcode",
 					"icon_size": 20,
-					"url": "https://cdn.jsdelivr.net/gh/howie6879/weekly/src/statics/wechat.jpeg"
+					"url": "https://telegraph-image-bnm.pages.dev/file/7097f0cdfc5df51c986ab.jpg"
 				}
 			]
 		}
